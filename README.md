@@ -6,6 +6,9 @@
 |Total||$31|$22||
 
 I created this because I had previously done something similar in Onshape for school, and it was a lot of fun. Even though what I made was something incredibly simple, the challenge that came with it made the experience more enjoyable and satisfying. I learnt how to be more independent because I had to research and fix my problems without the guidance of someone like a teacher. This project increased my interest in STEAM.
+
+Link to view in Onshape: https://cad.onshape.com/documents/93ce2fd54d65b9e2f11c464b/w/cefb8415f66c0825d5c09b5f/e/fcda2abbbe647aad82cee145
+
 <img width="1353" height="912" alt="image" src="https://github.com/user-attachments/assets/9357768d-6e5a-4f1d-8950-bea065f42794" />
 <img width="1151" height="951" alt="image" src="https://github.com/user-attachments/assets/57bc18f3-ac33-46d4-b3e3-6633ac6cdb89" />
 <img width="1149" height="673" alt="image" src="https://github.com/user-attachments/assets/12b3899a-bb4d-41f7-ad7e-246e4e062e09" />
